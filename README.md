@@ -27,7 +27,7 @@ C++ and Java languages were popularized.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-Planning - Is the fpoundation of the project as it outlines objectives and roadmap of the project.
+Planning - Is the foundation of the project as it outlines objectives and roadmap of the project.
 Requirement analyis - Developers and stakeholders analyze and document rquirements.
 Design - Developers create the system and software design.
 Implementation- Developers use programming languages framework and tools to create functional software
